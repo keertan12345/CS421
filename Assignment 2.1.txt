@@ -1,0 +1,5 @@
+Hello my name is “string” Keertan Chennupati. I live in “string” Coppell, TX. I have “Integer” one
+sibling. It is “Boolean” true that I like math. “Integer” seven divided by “Integer” two is “float” 3.5.
+My favorite things to do are “list” playing flute, sports, and spending time outdoors.
+
+Keertan Chennupati

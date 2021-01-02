@@ -1,0 +1,22 @@
+Some names for variables are legal and some are illegal. The following are a few rules to follow to create a legal variable name.
+
+The variable name cannot start with a number
+The variable name must start with a letter or the underscore character
+The variable name can only contain letters, numbers, and the underscore character
+Variable names are case sensitive
+The variable name should not have a space if there are two words to the name
+
+If I were to create a variable to hold the name of a student some of the variable names I would use are:
+Name
+Student_name
+name
+_name
+student
+A few bad examples of variable names are:
+name*
+Student name
+Name of student
+Student-name
+
+Keertan Chennupati 
+09/19/2020
